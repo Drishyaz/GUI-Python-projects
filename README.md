@@ -14,4 +14,4 @@ GUI stands for Graphical User Interface. So GUI programming refers to the progra
 
 2. **Project Viewer** - A GUI interface app. You can select a folder, and its contents are listed in the column or listbox on the left. The contents are the code files. Every time you select a file from the list, its code is display in the editor on the right.
 
-3. **Notepad** - A Notepad clone created using Python and PySimpleGUI. You can browse files, open new file, save files, change font styles and size, and app theme.
+3. **Notepad** - A Notepad clone created using Python and PySimpleGUI. You can browse files, open new file, save files, change font styles and size, and app theme. *(Still under development)*
