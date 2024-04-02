@@ -18,4 +18,10 @@ GUI stands for Graphical User Interface. So GUI programming refers to the progra
 
 4. **Password Manager** - Store all your passwords in this local password manager. You can store the website, email, and the password. Search by websites, in case you forgot which emails you registered with. Validation and Acknowledgement enabled.
 
-5. 
+5. **Pomodoro Timer** - Your own local pomodoro. Four sessions of 25 min work + 5 min break, and after that one long break. Focus and complete your work with this tool.
+
+6. **BlackJAck Game** - You VS Computer. The player whose total card points is highest wins. But there's a twist, if either of the player gets more than 21, they lose and the other wins.
+
+7. **Snake Game** - Play the classic Snake Game, and try to beat your high score!
+
+8. 
