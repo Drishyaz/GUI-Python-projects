@@ -20,8 +20,6 @@ GUI stands for Graphical User Interface. So GUI programming refers to the progra
 
 5. **Pomodoro Timer** - Your own local pomodoro. Four sessions of 25 min work + 5 min break, and after that one long break. Focus and complete your work with this tool.
 
-6. **BlackJAck Game** - You VS Computer. The player whose total card points is highest wins. But there's a twist, if either of the player gets more than 21, they lose and the other wins.
+6. **Snake Game** - Play the classic Snake Game, and try to beat your high score!
 
-7. **Snake Game** - Play the classic Snake Game, and try to beat your high score!
-
-8. 
+7.  
