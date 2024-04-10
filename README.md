@@ -22,4 +22,6 @@ GUI stands for Graphical User Interface. So GUI programming refers to the progra
 
 6. **Snake Game** - Play the classic Snake Game, and try to beat your high score!
 
-7.  
+7. **Pong Game**  - Play the classic pong game, with your friend, sibling or cousin!
+
+8.  
