@@ -24,4 +24,6 @@ GUI stands for Graphical User Interface. So GUI programming refers to the progra
 
 7. **Pong Game**  - Play the classic pong game, with your friend, sibling or cousin!
 
-8.  
+8.  **Turtle Crossing** - Can you get your turtle to the other side amidst all those speeding cars? What's the highest level you can get to?
+
+9.  
